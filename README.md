@@ -8,9 +8,9 @@
 - Functional Skills: Data Analysis, Visualization, Statistical & Predictive Analysis, Machine Learning, Business Intelligence, Data Warehousing & Mining, Data Storytelling, AI use cases, Automation Processes and Tools
 - Soft Skills: Teamwork, Communication, Problem-solving, Critical Thinking, Adaptability, Troubleshooting, Detail-Oriented
 
-🌟 Key Projects:
+# 🌟 Key Projects:
 
-# SQL 
+## SQL 
 - [SQL Project: Music Store Data Analysis:](https://github.com/PrachiKhatri22/SQL-Project-Music-Company-Analysis)
   Analyzing a music store's dataset using PostgreSQL to uncover key business insights.
 
