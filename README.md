@@ -15,7 +15,10 @@
   Analyzing a music store's dataset using PostgreSQL to uncover key business insights.
 
 ## Data Analytics
-- [Stocks Data Analysis for Stakeholders:](https://github.com/PrachiKhatri22/Stocks_Data_Analysis_for-Stakeholders)
+- [HR Analytics:](https://github.com/PrachiKhatri22/HR-Analytics-PowerBI-Project) (Power BI)
+An interactive HR Analytics dashboard providing deep workforce insights to drive data-informed decision-making.
+
+- [Stocks Data Analysis for Stakeholders:](https://github.com/PrachiKhatri22/Stocks_Data_Analysis_for-Stakeholders) (Tableau)
 Leveraged data analytics to evaluate stock performance, providing valuable insights for stakeholders to make informed investment decisions.
 
 - [Movie Recommendation System](https://github.com/PrachiKhatri22/Movie-Recommendation-System)
